@@ -1,0 +1,5 @@
+def fact(num):
+    if num==0:
+        result=1
+    else:
+        
